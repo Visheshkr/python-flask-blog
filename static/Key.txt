@@ -1,0 +1,6 @@
+vishesh = &vis&esh
+vishehs = &vis&ehs
+vishesh = *vis^esh
+vishesh = &vis~esh
+vishesh = %vis-esh
+rohan = ~roh%han
